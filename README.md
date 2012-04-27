@@ -1,4 +1,4 @@
 DokStore
 ========
 
-Document store on top of SQL database (using NHibernate)
+A simple document store on top of any SQL database (implemented on top of NHibernate)
